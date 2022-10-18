@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**hivislav/hivislav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://i.gifer.com/origin/ff/ff88888459f390b30438e162769be571_w200.webp"/>
+</div>
 
-Here are some ideas to get you started:
+<div id="badges" align="center">
+<a href="https://t.me/hivislav">
+<img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt=""/>
+ </a>
+<a href="https://career.habr.com/hivislav">
+<img src="https://img.shields.io/badge/Habr-turquoise?logo=habr&logoColor=white&style=for-the-badge" alt=""/>
+ </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=hivislav&style=flat-square&color=blue" alt=""/>
+</div>
+
+<h1 align="center">
+  hey there
+  <img src="https://media.tenor.com/uQJyw8sJs5kAAAAM/emoji-emoji-hello.gif" width="30px"/>
+</h1>
